@@ -1,0 +1,10 @@
+.inputContainer input{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 50px;
+    width: 90%;
+    margin: 20px 0;
+    padding: 0 10px ;
+    background: transparent;
+    color: white;
+}

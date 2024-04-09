@@ -1,0 +1,35 @@
+
+.itemRepo{
+    width: 80%;
+    text-align: left;
+    color: #FAFAFA50;
+    margin: 20px 0;
+}
+
+.itemRepo h3{
+    font-size: 32px;
+    color: white;
+}
+
+.itemRepo p{
+    font-size: 16px;
+    color: #FAFAFA50;
+    margin-bottom: 20px;
+}
+
+.itemRepo a{
+    color: red;
+}
+
+.itemRepo hr{
+    width: 500px;
+
+}
+
+.btn button{
+    margin: 3px;
+}
+ .btn .btnRepo{
+    margin-left: 28%;
+ }
+
